@@ -10,7 +10,7 @@ const listItems2 = document.getElementById('item-list-2');
 const listItems3 = document.getElementById('item-list-3');
 const form = document.querySelector('form');
 const email = document.getElementById('email');
-const errorMsg = document.querySelector('small');
+const errorMsg = document.querySelector('smal');
 
 function myFunction(x) {
   if (x.matches) {
